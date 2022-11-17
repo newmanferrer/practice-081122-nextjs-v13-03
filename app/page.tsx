@@ -10,7 +10,7 @@ export default function HomePage() {
       <Image
         priority
         src='/images/Octocat.png'
-        alt='Octo Cat'
+        alt='Octocat'
         width={300}
         height={300}
         sizes='(max-width: 768px) 100vw, (max-width: 1200px) 50vw 33vw'
