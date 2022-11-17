@@ -41,7 +41,7 @@
 }
 
 .container img:hover {
-  transform: scale(1.2) rotatey(360deg);
+  transform: scale(1.2) rotate3d(0, 1, 0, 360deg);
   border: 3px solid white;
   background-color: rgb(63, 62, 126);
 }
